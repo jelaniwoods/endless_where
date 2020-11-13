@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  born_on: 2020-11-13
+  time_of_birth: 2020-11-13 13:13:53
+  born_at: 2020-11-13 13:13:53
+  age: 1
+  height_in_inches: 9.99
+
+two:
+  name: MyString
+  born_on: 2020-11-13
+  time_of_birth: 2020-11-13 13:13:53
+  born_at: 2020-11-13 13:13:53
+  age: 1
+  height_in_inches: 9.99
